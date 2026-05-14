@@ -1,2 +1,2 @@
 # Projeto Grupo 3
-Nayely | Kelly* | Gustavo*
+Naiely | Kelly* | Gustavo*
