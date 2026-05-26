@@ -100,7 +100,7 @@ Naiely | Kelly* | Gustavo*
 | **Associação Label-Input** | ⚠️ Incompleto | Labels sem `for` correto |
 | **Indentação e Limpeza** | ⚠️ Regular | Inconsistente, precisa padronizar |
 
-**Nota estimada: 5-6/10** (com erros) → **8-9/10** (após correções)
+**Nota estimada: 3/10** (com erros) + Ponto_Extra 5 = 8.0
 
 ---
 
